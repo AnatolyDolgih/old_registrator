@@ -3,3 +3,4 @@ Data/
 __pycache__/
 add_name.py
 Names.txt
+loss_visualization.html
