@@ -1,6 +1,12 @@
 .sp/
-Data/
 __pycache__/
-add_name.py
-Names.txt
-loss_visualization.html
+/classificator/__pycache__/
+/freechat/__pycache__/
+/freechat/RuDialoGPT/
+/reg_model/__pycache__/
+/reg_model/Data/
+/reg_model/loss_vizualization.html
+/reg_model/train_stat_csv.csv
+/reg_model/train_stat_excel.xlsx
+/registrator/__pycache__/
+
